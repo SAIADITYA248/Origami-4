@@ -1,0 +1,77 @@
+    h1 {
+    color:cadetblue;   
+    font-family: fantasy ;
+    justify-content: space-between;
+    display:flex;
+    flex-wrap:wrap ;
+    font-size: 30px;
+    font-weight: 600;
+    }
+    .h2{
+      font-family:sans-serif;  
+      justify-content: space-between;
+      display:flex;
+      flex-wrap:wrap ;
+
+    }
+    .h3{
+     font-style: oblique;  
+     font:bold;
+     font-weight: large;
+     font-family: sans-serif;
+
+    }
+    .header{
+        border: 2px solid red ; 
+    }
+    .description{
+    margin: 0px;
+    text-align: center;
+    background-color: #00ffff;
+    padding-top: 50px; 
+    
+    }
+    a:visited{
+        color: rgb(250, 9, 9);
+
+    }
+    .chameleon{
+    background-color:rgb(238, 119, 119) ;
+    color:rgb(20, 46, 197);
+   font-weight: bolder;
+   padding-top: 50px; 
+    
+    }
+     
+    .camel{
+     background-color: rgb(88, 86, 86); 
+     color: rgb(255,255,255 );
+     padding-top: 50px; 
+    }
+    .pigeon{
+        padding-top: 50px; 
+    }
+    
+    .chameleon:hover{
+        opacity: 60%;
+        transform:scale(1.01);
+    }
+    .pigeon:hover{
+        opacity: 60%;
+        transform:scale(1.01);
+    }
+    .camel:hover{
+        opacity: 60%;
+        transform:scale(1.01);
+    }
+
+
+    a:link{
+    color: green;
+    }
+    a:visited{
+    color:cadetblue;
+    }
+
+  
+    
